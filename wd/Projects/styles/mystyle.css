@@ -1,0 +1,128 @@
+
+
+/*For the brand font*/
+
+
+
+
+.navbar-brand{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+/*Nav bar color*/
+.navbar #Menu .cus-nav .nav-item a:hover{
+	color: #fff;
+}
+
+
+
+/*header image responsive*/
+.img-resp{
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 70vh;
+	border-radius: 0px;
+}
+
+
+.no-gutters{
+	margin-bottom: 0px;
+}
+
+.foot{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.container .www:hover{
+	border: 3px solid blue;
+	
+}
+
+
+.fnt{
+font-family: Source Sans Pro, "HelveticaNeue","Helvetica Neue",sans-serif;
+}
+
+.nmb{
+	font-family: 'Luckiest Guy', cursive;
+
+
+}
+.ggg{
+		font-family: 'Luckiest Guy', cursive;
+}
+
+
+.golo{
+	height: auto;
+	width: 100%;
+	filter: grayscale(100%);
+	transition: 1s;
+}
+
+.golo:hover{
+	filter: grayscale(0);
+	transform: scale(1.1);
+	
+}
+
+.golo a{
+	width: 1500px;
+	height: 1500px;
+}
+
+
+.momo{
+	font-family: 'Source Code Pro', monospace;
+	width: 100%;
+	font-size: 50px;
+}
+
+
+
+
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  border-radius: 50%;
+ 
+}
+
+
+
+.frm{
+	background:rgb(220,53,69); 
+	width: auto;
+	height: 500px;
+	
+}
+.frm h{
+	color: white;
+}
+
+.txt{
+	color: white;
+}
+
+.container .lala{
+	height: 500px;
+}
+
+.zoom a{
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.map iframe{
+border:0px;
+height: 450px;
+width: 100%;
+
+}
+
+
+/*font-family: 'Ubuntu', sans-serif;*/
